@@ -266,8 +266,8 @@ body
 .photo img
 {
     position: absolute;
-    width: 100%;
     height: 800px;
+    right: -90px;
 }
 
 /* VIDEO PAGE CSS */
